@@ -33,7 +33,7 @@ location: 🌏 India
 focus:
   - Cloud Architecture (AWS, GCP)
   - Platform Engineering & GitOps
-  - MLOps / AIOps / DataEngineering
+  - MLOps / LLMOps / RAGOps / AIOps / DataEngineering
   - Full Stack Development (React, FastAPI)
 superpowers:
   - 99% uptime systems that don't page you at 3AM 😴
@@ -108,6 +108,37 @@ motto: "Ship fast, break nothing, sleep well 🚀"
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 
+### 🧠 LLMOps
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=for-the-badge&logo=v&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+> 🔗 **LLMOps Stack:** LangChain · LangGraph · LangSmith · vLLM · HuggingFace · Ollama · Prompt Engineering · RAG Pipelines · Vector DBs · Model Serving on K8s
+
+### 📚 RAGOps
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00D4AA?style=for-the-badge&logo=weaviate&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge&logo=databricks&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC382D?style=for-the-badge&logo=qdrant&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-6B4FBB?style=for-the-badge&logo=llama&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Unstructured](https://img.shields.io/badge/Unstructured-4A154B?style=for-the-badge&logo=files&logoColor=white)
+
+> 📖 **RAGOps Focus:** Vector DB management (Pinecone, Weaviate, ChromaDB, Qdrant) · Document ingestion & chunking · Embedding pipelines · Retrieval evaluation & optimization · RAG pipeline orchestration with LlamaIndex & LangChain · Hybrid search · Guardrails & hallucination detection
+
+### 🤖 AIOps
+![PagerDuty](https://img.shields.io/badge/PagerDuty-06AC38?style=for-the-badge&logo=pagerduty&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+
+> 🔮 **AIOps Focus:** AI-driven anomaly detection · Intelligent alerting & noise reduction · Predictive autoscaling · Automated incident response · Root cause analysis with LLMs · Self-healing infrastructure
+
 ---
 
 ## 📊 GitHub Stats
@@ -135,11 +166,14 @@ motto: "Ship fast, break nothing, sleep well 🚀"
 
 ## 🌟 What I'm Up To
 
-- 🔭 Building **production-grade MLOps pipelines** on Kubernetes with KubeFlow & K-Serve
-- 🌱 Exploring **LangGraph** for agentic AI workflows & AIOps automation
+- 🔭 Building **production-grade MLOps & LLMOps pipelines** on Kubernetes with KubeFlow, K-Serve & vLLM
+- 🧠 Designing **LLMOps workflows** — prompt management, model evaluation & LLM serving at scale
+- 📚 Building **RAGOps pipelines** — document ingestion, embedding pipelines, vector DB management, retrieval evaluation & hybrid search
+- 🌱 Exploring **LangGraph** for agentic AI workflows & **AIOps automation** with LLM-powered incident response
+- 🔮 Implementing **AIOps** — AI-driven anomaly detection, predictive autoscaling & self-healing infrastructure
 - ⚡ Obsessed with **reducing toil** — if I do it twice, I automate it
-- 📝 Writing about DevOps & Cloud on [Medium](https://medium.com/@ashish_sarkar)
-- 🎯 2025 Goal: Contribute to **CNCF ecosystem** open source projects
+- 📝 Writing about DevOps, LLMOps, RAGOps & Cloud on [Medium](https://medium.com/@ashish_sarkar)
+- 🎯 2026 Goal: Contribute to **CNCF ecosystem** open source projects & build open-source LLMOps tooling
 
 ---
 
